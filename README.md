@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on open-source projects.<br>I’m currently diving deep into Cloud Computing.<br>I led a team to develop a website for an AI startup.
+I’m looking to collaborate on open-source projects.<br>I’m currently diving deep into Cloud Computing.<br>I led a team to develop a website for an AI startup.<br>I am proficient in both web and app development.
 
 
 ## 🌐 Socials:
